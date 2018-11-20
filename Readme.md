@@ -18,5 +18,5 @@
 
 ## Трансляция занятия
 
-* TBD
+* <https://hangouts.google.com/hangouts/_/ytl/EcnkKnlCBt0PLiM94ht4hwY4y4df0syEIqCOZX-Rb3A=?hl=en_US&authuser=2>
 
