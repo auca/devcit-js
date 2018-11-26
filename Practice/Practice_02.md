@@ -121,5 +121,6 @@ F:\
 ### URI
 
 Задания с 1001 по 1010 <https://www.urionlinejudge.com.br/judge/en/problems/index/1>
+
 Перевод заданий можно найти по ссылке <https://github.com/auca/devcit-js/blob/master/Practice/URI_Translations.md>
 
