@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Задание 3</title>
+    </head>
+    <body>
+        <p id="result"></p>
+        <script>
+            // Константы
+
+            // 1. Выделить/зарезервировать
+            //    нужный объем памяти
+            // 2. Дать имя/псевдоним этой памяти
+
+            const name = prompt("Как вас зовут?")
+            const message = "Привет, " + name + "."
+
+            console.log(message) // результат смотрим в консоли
+            document.getElementById("result").textContent = message // результат смотрим на странице
+        </script>
+    </body>
+</html>

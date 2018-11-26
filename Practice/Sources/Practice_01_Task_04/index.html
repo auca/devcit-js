@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Задание 4</title>
+    </head>
+    <body>
+        <p id="result"></p>
+        <script>
+            const num1 = parseInt(prompt("Введите первое число:"))
+            const num2 = parseInt(prompt("Введите второе число:"))
+
+            const sum = num1 + num2;
+            const message = num1 + " + " + num2 + " = " + sum
+
+            console.log(message)
+            document.getElementById("result").textContent = message
+        </script>
+    </body>
+</html>
