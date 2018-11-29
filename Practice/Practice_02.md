@@ -116,6 +116,8 @@ F:\
 Случайно число от 10 до 100: 42
 ```
 
+* [Math.random](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+
 ## Задание на дом
 
 ### URI
