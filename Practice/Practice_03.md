@@ -34,7 +34,7 @@ F:\
 
 ## Задача № 1: Введение в HTML
 
-Создайте HTML страницу `markdown-help.html` с информацией о языке [Markdown] (https://daringfireball.net/projects/markdown/).
+Создайте HTML страницу `markdown-help.html` с информацией о языке [Markdown](https://daringfireball.net/projects/markdown/).
 
 Используйте следующие HTML-элементы для структурирования информации о синтаксисе Markdown.
 
@@ -44,11 +44,11 @@ F:\
 * Полужирный и курсивный текст
 * Ссылки
 * Упорядоченные и неупорядоченные списки
-* [Списки определений] (http://kramdown.gettalong.org/syntax.html#definition-lists)
+* [Списки определений](http://kramdown.gettalong.org/syntax.html#definition-lists)
 * Длинные цитаты
 * Предварительно отформатированный текст и код
-* [Изображения] (https://github.com/dcurtis/markdown-mark)
-* [Таблицы] (http://kramdown.gettalong.org/syntax.html#tables)
+* [Изображения](https://github.com/dcurtis/markdown-mark)
+* [Таблицы](http://kramdown.gettalong.org/syntax.html#tables)
 
 ### Дополнительные требования
 
