@@ -70,7 +70,7 @@ F:\
 * border (border, border-style, border-color, border-width...)
 * font (font, font-family, font-size, font-style, font-weight...)
 * width, height...
-* display (inline, block, inline-block)
+* display (inline, block)
 * list-style
 
 ## Документация
