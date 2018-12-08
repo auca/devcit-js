@@ -27,6 +27,8 @@ F:\
 * [Google Chrome](https://www.google.com/chrome)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [Node.js](https://nodejs.org/en)
+* [Git, SSH, SCP](https://git-scm.com/)
+* [WinSCP](https://winscp.net/eng/downloads.php)
 
 ### Альтернативная среда разработки (по желанию)
 
