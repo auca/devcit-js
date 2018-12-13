@@ -1,0 +1,42 @@
+body {
+    background-color: #9c9c9c;
+}
+
+section {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border: 7px dashed #d4d4d4;
+}
+
+pre {
+   overflow: hidden; 
+}
+
+hr {
+    border: 2px dashed #a9a9a9;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: #505050;
+}
+
+
+nav li {
+    display: inline;
+    background-color: #cccccc;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid #e0e0e0;
+    box-shadow: 4px 4px 4px #868686;
+}
+
+ul {
+    text-align: center;
+}
+

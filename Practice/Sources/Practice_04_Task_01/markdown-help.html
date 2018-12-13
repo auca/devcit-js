@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <title>Markdown</title>
+        <meta name="author" content="Toksaitov Dmitrii Alexandrovich">
+        <meta name="description" content="Документация о языке Markdown">
+        <meta name="keywords" content="Markdown,документация">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <main>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#review">Обзор</a></li>
+                    <li><a href="#headings">Заголовки</a></li>
+                    <li><a href="#links">Ссылки</a></li>
+                    <li><a href="#lists">Списки</a></li>
+                    <li><a href="#quotes">Цитаты</a></li>
+                    <li><a href="#images">Изображения</a></li>
+                    <li><a href="#tables">Таблицы</a></li>
+                </ul>
+            </nav>
+        </header>
+        <article>
+        <h1>Документация к языку Markdown</h1>
+        <hr>
+        <section id="review">
+        <h2>Обзор</h2>
+        <p>Markdown (произносится маркда́ун) — облегчённый язык разметки,
+        созданный с целью написания наиболее читаемого и удобного для
+        правки текста, <strong>НО</strong> пригодного для преобразования в языки
+        для продвинутых публикаций (HTML, Rich Text и других).</p>
+        <h3>История</h3>
+        <p>Первоначально создан в 2004 году Джоном Грубером (<em>англ. John
+        Gruber</em>) и Аароном Шварцем. Многие идеи языка были позаимствованы
+        из существующих соглашений по разметке текста в электронных письмах.
+        Реализации языка Markdown преобразуют текст в формате Markdown в
+        валидный, правильно построенный XHTML и заменяют левые угловые
+        скобки («&lt;») и амперсанды («&») на соответствующие коды сущностей
+        Первой реализацией Markdown стала написанная Грубером реализация
+        на Perl, однако спустя некоторое время появилось множество реализаций
+        от сторонних разработчиков (см. ниже). Реализация на Perl
+        распространяется по лицензии типа BSD. Реализации Markdown на
+        различных языках программирования включены (или доступны в
+        качестве плагина) во многие системы управления содержимым.</p>
+        </section>
+        <hr>
+        <section id="headings">
+        <h2>Заголовки</h2>
+        <p>Создание заголовков производится путём помещения знака решетки
+        перед текстом заголовка. Количество знаков «#» соответствует уровню
+        заголовка. HTML предоставляет 6 уровней заголовков.</p>
+        <pre><code># Заголовок первого уровня
+#### Заголовок четвёртого уровня</code></pre>
+        <p>Первые два уровня заголовка также имеют альтернативный синтаксис:</p>
+        <pre><code>Заголовок первого уровня
+========================
+
+Заголовок второго уровня
+------------------------</code></pre>
+        </section>
+        <hr>
+        <section id="links">
+        <h2>Ссылки</h2>
+        <p>Ссылки можно создать несколькими способами.</p>
+        <pre><code>[Текст ссылки](http://example.com "Заголовок ссылки")</code></pre>
+        <a href="http://example.com" title="Заголовок ссылки">Текст ссылки</a>
+        </section>
+        <hr>
+        <section id="lists">
+        <h2>Списки</h2>
+        <p>Markdown поддерживает нумерованные и ненумерованные списки.</p>
+        <p>Ненумерованные списки могут использовать символы *, -, +.</p>
+        <pre><code>*   Red
+*   Green
+*   Blue</code></pre>
+        <pre><code>+   Red
++   Green
++   Blue</code></pre>
+        <pre><code>-   Red
+-   Green
+-   Blue</code></pre>
+        <ul>
+            <li>Red</li>
+            <li>Green</li>
+            <li>Blue</li>
+        </ul>
+        <p>Нумерованные списки используют число с точкой
+        перед каждым элементом.</p>
+        <pre><code>1.  Bird
+2.  McHale
+3.  Parish</code></pre>
+        <ol>
+            <li>Bird</li>
+            <li>McHale</li>
+            <li>Parish</li>
+        </ol>
+        <p>Списки определений можно указать
+        следующим способом.</p>
+        <pre><code>kramdown
+: Программа перевода языка Markdown</code></pre>
+        <dl>
+            <dt>kramdown</dt>
+            <dd>Программа перевода языка Markdown</dd>
+        </dl>
+        </section>
+        <hr>
+        <section id="quotes">
+        <h2>Цитаты</h2>
+        <p>Markdown использует символ &gt; для создания
+        блочных цитат.</p>
+        <pre><code>> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> 
+> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+> id sem consectetuer libero luctus adipiscing.</code></pre>
+        <blockquote>This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+        consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+        Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.<br><br>
+        
+        Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+        id sem consectetuer libero luctus adipiscing.
+        </blockquote>
+        </section>
+        <hr>
+        <section id="images">
+        <h2>Изображения</h2>
+        <p>Изображение задается следующим образом.</p>
+        <pre><code>![Alt text](markdown-logo.png "Optional title")</code></pre>
+        <img src="markdown-logo.png" title="Optional title" alt="Alt text" width="100">
+        </section>
+        <hr>
+        <section id="tables">
+        <h2>Таблицы</h2>
+        <p>Таблицы доступны только в некоторых декодерах языка Markdown.</p>
+        <pre><code>| First cell |Second cell |Third cell |
+| First      | Second     | Third     |
+| First      | Second     | Fourth    |</code></pre>
+        <table>
+            <tr>
+                <th>First cell</th>
+                <th>Second cell</th>
+                <th>Third cell</th>
+            </tr>
+            <tr>
+                <td>First</td>
+                <td>Second</td>
+                <td>Third</td>
+            </tr>
+            <tr>
+                <td>First</td>
+                <td>Second</td>
+                <td>Fourth</td>
+            </tr>
+        </table>
+        </section>
+        </article>
+        <footer>
+            <p>&copy; 2018 Дмитрий Токсаитов</p>
+        </footer>
+        </main>
+    </body>
+</html>
+
