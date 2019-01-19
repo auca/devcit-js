@@ -223,6 +223,6 @@ F:\
 
 ### URI
 
-Задания с 1035–1038, 1040–1045 <https://www.urionlinejudge.com.br/judge/en/problems/index/1>
+Задания с 1035–1038, 1040–1052, 1061 <https://www.urionlinejudge.com.br/judge/en/problems/index/1>
 
-Перевод заданий можно найти по ссылке <https://github.com/auca/devcit-js/blob/master/Practice/URI_Translations_Part_3.md>
+Перевод заданий можно найти по ссылке <https://github.com/auca/devcit-js/blob/master/Practice/URI_Translations_Part_3.md> и <https://github.com/auca/devcit-js/blob/master/Practice/URI_Translations_Part_4.md>
