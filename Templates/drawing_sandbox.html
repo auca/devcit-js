@@ -10,9 +10,9 @@
             document.addEventListener('DOMContentLoaded', () => {
                 function startDrawing() {
                     const canvas = document.getElementById('canvas')
-                    const width = canvas.width  = window.innerWidth
-                    const height = canvas.height = window.innerHeight
-                    draw(canvas.getContext('2d'), width, height)
+                    const w = canvas.width  = window.innerWidth
+                    const h = canvas.height = window.innerHeight
+                    draw(canvas.getContext('2d'), w, h)
                 }
                 window.addEventListener('resize', startDrawing); startDrawing()
             })
@@ -21,11 +21,11 @@
     <body>
         <canvas id="canvas"></canvas>
         <script>
-            function draw(context, width, height) {
-                context.fillStyle = 'black'
-                context.beginPath()
-                context.rect(0, 0, width, height)
-                context.fill()
+            function draw(ctx, w, h) {
+                ctx.fillStyle = 'black'
+                ctx.beginPath()
+                ctx.rect(0, 0, w, h)
+                ctx.fill()
 
                 // TODO
             }
