@@ -18,4 +18,4 @@
 
 ## Трансляция занятия
 
-* <https://hangouts.google.com/hangouts/_/ytl/osoPqchgx3eTGJZ6k_UZFWEd7ZTzi8jJzLFQdDDW9nY=?hl=en_US>
+* <https://hangouts.google.com/hangouts/_/ytl/0fspxW36fbMUHQ67WIIxUplat4DY6DlSWB2r7TgN9DU=?hl=en_US>
