@@ -4,7 +4,7 @@
 
 Информация о курсе, информация о преподавателе, список тем курса
 
-* <https://github.com/auca/devcit-js/blob/master/Course_Description_Ru_Fall_2018.pdf>
+* <https://github.com/auca/devcit-js/blob/master/Course_Description_Ru_Spring_2019.pdf>
 
 ## Обсуждение
 
