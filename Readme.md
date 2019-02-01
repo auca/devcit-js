@@ -26,7 +26,7 @@
 
 ### Группа весны 2019
 
-* TBD
+* https://www.youtube.com/playlist?list=PLHcEzCb_lW6dj6T5y6nEN7J2tPZkvNrnj
 
 ## Трансляция занятия
 
