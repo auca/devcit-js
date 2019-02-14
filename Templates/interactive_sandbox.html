@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Interactive Sandbox</title>
+        <style>
+            body { margin: 0; overflow: hidden; }
+        </style>
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                const canvas = document.getElementById('canvas')
+                const w = canvas.width  = window.innerWidth
+                const h = canvas.height = window.innerHeight
+                setup(canvas.getContext('2d'), w, h)
+
+                document.addEventListener('keydown', e => keyDown(e.key))
+            })
+        </script>
+    </head>
+    <body>
+        <canvas id="canvas"></canvas>
+        <script>
+            function setup(ctx, w, h) {
+                // TODO: добавить код инициализации
+
+                window.requestAnimationFrame(timestamp => draw(ctx, w, h, timestamp));
+            }
+
+            function draw(ctx, w, h, timestamp) {
+                ctx.fillStyle = 'black'
+                ctx.beginPath()
+                ctx.rect(0, 0, w, h)
+                ctx.fill()
+
+                // TODO: добавить код рисования
+
+
+                window.requestAnimationFrame(timestamp => draw(ctx, w, h, timestamp));
+            }
+
+            function keyDown(key) {
+                // TODO: добавить код обработки нажатия на клавиши
+
+            }
+        </script>
+    </body>
+</html>
