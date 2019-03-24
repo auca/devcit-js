@@ -8,14 +8,11 @@
         </style>
         <script>
             document.addEventListener('DOMContentLoaded', () => {
-                function startDrawing() {
-                    const canvas = document.getElementById('canvas')
-                    const w = canvas.width  = window.innerWidth
-                    const h = canvas.height = window.innerHeight
-                    setup(canvas.getContext('2d'), w, h)
-                }
-                window.addEventListener('resize', startDrawing); startDrawing()
-            })
+                const canvas = document.getElementById('canvas');
+                const w = canvas.width  = window.innerWidth;
+                const h = canvas.height = window.innerHeight;
+                setup(canvas.getContext('2d'), w, h);
+            });
         </script>
     </head>
     <body>
@@ -28,13 +25,17 @@
             }
 
             function draw(ctx, w, h, timestamp) {
-                ctx.fillStyle = 'black'
-                ctx.beginPath()
-                ctx.rect(0, 0, w, h)
-                ctx.fill()
+                if (w != window.innerWidth || h != window.innerHeight) {
+                    w = canvas.width  = window.innerWidth;
+                    h = canvas.height = window.innerHeight;
+                }
+
+                ctx.fillStyle = 'black';
+                ctx.beginPath();
+                ctx.rect(0, 0, w, h);
+                ctx.fill();
 
                 // TODO: добавить код рисования
-
 
                 window.requestAnimationFrame(timestamp => draw(ctx, w, h, timestamp));
             }
