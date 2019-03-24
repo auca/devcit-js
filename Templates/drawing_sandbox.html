@@ -9,12 +9,12 @@
         <script>
             document.addEventListener('DOMContentLoaded', () => {
                 function startDrawing() {
-                    const canvas = document.getElementById('canvas')
-                    const w = canvas.width  = window.innerWidth
-                    const h = canvas.height = window.innerHeight
-                    draw(canvas.getContext('2d'), w, h)
+                    const canvas = document.getElementById('canvas');
+                    const w = canvas.width  = window.innerWidth;
+                    const h = canvas.height = window.innerHeight;
+                    draw(canvas.getContext('2d'), w, h);
                 }
-                window.addEventListener('resize', startDrawing); startDrawing()
+                window.addEventListener('resize', startDrawing); startDrawing();
             })
         </script>
     </head>
@@ -22,12 +22,12 @@
         <canvas id="canvas"></canvas>
         <script>
             function draw(ctx, w, h) {
-                ctx.fillStyle = 'black'
-                ctx.beginPath()
-                ctx.rect(0, 0, w, h)
-                ctx.fill()
+                ctx.fillStyle = 'black';
+                ctx.beginPath();
+                ctx.rect(0, 0, w, h);
+                ctx.fill();
 
-                // TODO
+                // TODO: добавить код рисования
             }
         </script>
     </body>
