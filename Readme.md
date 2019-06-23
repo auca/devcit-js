@@ -30,5 +30,5 @@
 
 ## Трансляция занятия
 
-* <https://hangouts.google.com/hangouts/_/ytl/UVh_B7rOO-m0lmKM-GUhlAfJ0wQLV3JXSyMTd6d9nXI=?hl=en_US>
+* <https://hangouts.google.com/hangouts/_/ytl/PDc2m74Y8TCUA_Z8zazxmlNiiAu-2ShLh2qBnilLcrk=?hl=en_US>
 
