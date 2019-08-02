@@ -30,5 +30,5 @@
 
 ## Трансляция занятия
 
-* <https://youtu.be/PnvfHaa2e7A>
+* <https://meet.google.com/amb-exwq-kqg>
 
