@@ -23,11 +23,11 @@
 ### Группа осени 2018
 
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6c7ufGGycKel6xEiFO0Zmmt>
-* <https://drive.google.com/drive/folders/1vnmZ_KYfp9QU0Ef3IGgCTP-hkOOoXSnE?usp=sharing>
 
 ### Группа весны 2019
 
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6dj6T5y6nEN7J2tPZkvNrnj>
+* <https://drive.google.com/drive/folders/1vnmZ_KYfp9QU0Ef3IGgCTP-hkOOoXSnE?usp=sharing>
 
 ## Трансляция занятия
 
