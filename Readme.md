@@ -30,5 +30,5 @@
 
 ## Трансляция занятия
 
-* <https://meet.google.com/amb-exwq-kqg>
+* <https://meet.google.com/hhp-rtnv-nid>
 
