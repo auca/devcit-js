@@ -31,5 +31,5 @@
 
 ## Трансляция занятия
 
-* <https://meet.google.com/hhp-rtnv-nid>
+* <https://meet.google.com/ieu-zigx-gqt>
 
