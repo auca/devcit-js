@@ -31,5 +31,5 @@
 
 ## Трансляция занятия
 
-* <https://meet.google.com/ici-oahf-wtd>
+* <https://meet.google.com/cia-jnga-mmy>
 
