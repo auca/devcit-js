@@ -31,5 +31,5 @@
 
 ## Трансляция занятия
 
-* <https://meet.google.com/cia-jnga-mmy>
+* <https://meet.google.com/rip-uoem-kpk>
 
