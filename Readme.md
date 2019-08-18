@@ -31,5 +31,5 @@
 
 ## Трансляция занятия
 
-* <https://meet.google.com/rip-uoem-kpk>
+* <https://meet.google.com/stg-vfrk-kpd>
 
