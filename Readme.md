@@ -31,5 +31,5 @@
 
 ## Трансляция занятия
 
-* <https://meet.google.com/stg-vfrk-kpd>
+* <https://meet.google.com/kio-xfmc-she>
 
