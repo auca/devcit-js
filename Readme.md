@@ -31,5 +31,5 @@
 
 ## Трансляция занятия
 
-* <https://meet.google.com/kio-xfmc-she>
+* <https://meet.google.com/khz-ywdz-wwe>
 
