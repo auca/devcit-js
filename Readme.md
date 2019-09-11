@@ -18,6 +18,10 @@
 
 * <https://piazza.com/auca.kg/spring2019/devcitjs101/home>
 
+### Группа осени 2019
+
+* <https://piazza.com/auca.kg/fall2019/devcitjs101/home>
+
 ## Записи занятий
 
 ### Группа осени 2018
@@ -29,7 +33,10 @@
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6dj6T5y6nEN7J2tPZkvNrnj>
 * <https://drive.google.com/drive/folders/1YJahRt6fG7hCSYq7VPvNzxGFAQv0GX6J?usp=sharing>
 
-## Трансляция занятия
+### Группа осени 2019
 
-* <https://meet.google.com/khz-ywdz-wwe>
+* <https://www.youtube.com/playlist?list=PLHcEzCb_lW6fpG0madOz6VOoeG2m5s5hG>
 
+## Регистрация
+
+* <https://www.youtube.com/playlist?list=PLHcEzCb_lW6dj6T5y6nEN7J2tPZkvNrnj>
