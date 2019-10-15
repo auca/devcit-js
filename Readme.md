@@ -10,15 +10,15 @@
 
 Вопросы и ответы
 
-### Группа осени 2018
+### Группы осени 2018
 
 * <https://piazza.com/auca.kg/fall2018/devcitjs101/home>
 
-### Группа весны 2019
+### Группы весны 2019
 
 * <https://piazza.com/auca.kg/spring2019/devcitjs101/home>
 
-### Группа осени 2019
+### Группы осени 2019
 
 * <https://piazza.com/auca.kg/fall2019/devcitjs101/home>
 
