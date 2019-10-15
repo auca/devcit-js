@@ -42,4 +42,4 @@
 
 ## Регистрация
 
-* <https://docs.google.com/spreadsheets/d/1HaA9LlvuKuWH0YLDq2rWwzSKMxhaBbm3unb_X4ZTcGo/edit?usp=sharing>
+* <https://docs.google.com/spreadsheets/d/1HaA9LlvuKuWH0YLDq2rWwzSKMxhaBbm3unb_X4ZTcGo>
