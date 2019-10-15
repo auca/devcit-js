@@ -33,9 +33,13 @@
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6dj6T5y6nEN7J2tPZkvNrnj>
 * <https://drive.google.com/drive/folders/1YJahRt6fG7hCSYq7VPvNzxGFAQv0GX6J?usp=sharing>
 
-### Группа осени 2019
+### Группа осени 2019, 1
 
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6fpG0madOz6VOoeG2m5s5hG>
+
+### Группа осени 2019, 2
+
+* <https://www.youtube.com/playlist?list=PLHcEzCb_lW6cPeFAhQDau1_3WY1wzMQiY>
 
 ## Регистрация
 
