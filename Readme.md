@@ -42,4 +42,5 @@
 
 ## Регистрация
 
+* <https://docs.google.com/spreadsheets/d/1eXZvta7OI5t56XL68GhZHz-3PcD2RUU1rPnkJ6bJv3U>
 * <https://docs.google.com/spreadsheets/d/1HaA9LlvuKuWH0YLDq2rWwzSKMxhaBbm3unb_X4ZTcGo>
