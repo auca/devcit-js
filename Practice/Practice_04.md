@@ -91,6 +91,10 @@ F:\
 ## Другие ресурсы
 
 * [CSS3 Patterns](http://lea.verou.me/css3patterns)
+* [SVG Patterns](https://www.heropatterns.com)
+* [CSS Optimizer](https://css.github.io/csso/csso.html)
+* [HTML Minifier](http://kangax.github.io/html-minifier)
+* [CSS Autoprefixer](https://autoprefixer.github.io)
 
 ## Задача № 2: Загрузка на сервер
 
