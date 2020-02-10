@@ -39,3 +39,8 @@
 ### Группа осени 2019, 2
 
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6cPeFAhQDau1_3WY1wzMQiY>
+
+### Регистрация
+
+* <https://docs.google.com/spreadsheets/d/1eXZvta7OI5t56XL68GhZHz-3PcD2RUU1rPnkJ6bJv3U>
+
