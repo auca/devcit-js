@@ -13,7 +13,7 @@
 * <https://drive.google.com/open?id=1RaK1SaTtn4inv4ZpHXvDJ-yxFUSfqXxHkWQcklB7--I>
 * <https://drive.google.com/open?id=1F4UXh-ImOAiG0SYMGwpysrb-QCAWfgApST4kA1K883w>
 
-## Развитие системы Buzzle
+## Развитие системы Fido2020/Buzzle
 
 Задания расширения функционала (достаточно выполнить только одно задание на выбор).
 
