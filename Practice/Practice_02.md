@@ -15,7 +15,11 @@ F:\
 |----Practice_01_Task_01
 |----Practice_01_Task_02
 |----...
+|----Practice_01_HomeTask_01
+|----Practice_01_HomeTask_02
+|----...
 |----Practice_02_Task_01
+|----Practice_02_Task_02
 |----...
 |----URI_Task_1001
 |----URI_Task_1002
@@ -26,7 +30,6 @@ F:\
 
 * [Google Chrome](https://www.google.com/chrome)
 * [Visual Studio Code](https://code.visualstudio.com)
-* [Node.js](https://nodejs.org/en)
 
 ### Альтернативная среда разработки (по желанию)
 
